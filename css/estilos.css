@@ -1,0 +1,25 @@
+.log-img{
+  width: 20vh;
+}
+.red-soc{
+  width: 40%;
+}
+body{
+  background: url(../img/fondo.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.barra{
+  height: 8rem;
+  width: 100%;
+  position: fixed;
+}
+div{
+  position: relative;
+}
+img{
+  position: inherit;
+}
+.publicacion{
+  overflow: scroll;
+}
